@@ -1,0 +1,15 @@
+{
+    "action": "add_object",
+    "location": {
+        "x": 1200.0,
+        "y": 200.0,
+        "z": 300.0
+    },
+    "rotation": {
+        "pitch": 0.0,
+        "yaw": 0.0,
+        "roll": 0.0
+    },
+    "material_path": "Material'/Game/StarterContent/Materials/M_Brick_Clay_New.M_Brick_Clay_New'",
+    "mesh_path": "StaticMesh'/Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180'"
+}
